@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\bin\Debug\soma_impares.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\bin\Debug\soma_impares.exe
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\bin\Debug\soma_impares.pdb
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\obj\Debug\soma_impares.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\obj\Debug\soma_impares.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\obj\Debug\soma_impares.exe
+C:\Programacao\ws - vs 2022\Primeiro\soma_impares\obj\Debug\soma_impares.pdb

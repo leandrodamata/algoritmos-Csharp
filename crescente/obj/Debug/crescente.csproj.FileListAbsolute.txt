@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\crescente\obj\Debug\crescente.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\crescente\obj\Debug\crescente.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\crescente\bin\Debug\crescente.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\crescente\bin\Debug\crescente.exe
+C:\Programacao\ws - vs 2022\Primeiro\crescente\bin\Debug\crescente.pdb
+C:\Programacao\ws - vs 2022\Primeiro\crescente\obj\Debug\crescente.exe
+C:\Programacao\ws - vs 2022\Primeiro\crescente\obj\Debug\crescente.pdb

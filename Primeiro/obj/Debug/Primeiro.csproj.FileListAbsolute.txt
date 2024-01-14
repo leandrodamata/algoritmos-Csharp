@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\Programacao\ws - vs 2022\Primeiro\Primeiro\obj\Debug\Primeiro.pdb

@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\idades\bin\Debug\idades.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\idades\bin\Debug\idades.exe
+C:\Programacao\ws - vs 2022\Primeiro\idades\bin\Debug\idades.pdb
+C:\Programacao\ws - vs 2022\Primeiro\idades\obj\Debug\idades.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\idades\obj\Debug\idades.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\idades\obj\Debug\idades.exe
+C:\Programacao\ws - vs 2022\Primeiro\idades\obj\Debug\idades.pdb

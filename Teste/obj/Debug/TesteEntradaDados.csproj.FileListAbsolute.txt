@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\Teste\bin\Debug\Teste.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\Teste\bin\Debug\Teste.exe
+C:\Programacao\ws - vs 2022\Primeiro\Teste\bin\Debug\Teste.pdb
+C:\Programacao\ws - vs 2022\Primeiro\Teste\obj\Debug\TesteEntradaDados.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\Teste\obj\Debug\TesteEntradaDados.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\Teste\obj\Debug\Teste.exe
+C:\Programacao\ws - vs 2022\Primeiro\Teste\obj\Debug\Teste.pdb

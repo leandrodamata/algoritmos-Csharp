@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\bin\Debug\menor_de_tres.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\bin\Debug\menor_de_tres.exe
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\bin\Debug\menor_de_tres.pdb
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\obj\Debug\menor_de_tres.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\obj\Debug\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\obj\Debug\menor_de_tres.exe
+C:\Programacao\ws - vs 2022\Primeiro\menor_de_tres\obj\Debug\menor_de_tres.pdb

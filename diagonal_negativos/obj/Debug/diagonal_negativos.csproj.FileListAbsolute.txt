@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\bin\Debug\diagonal_negativos.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\bin\Debug\diagonal_negativos.exe
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\bin\Debug\diagonal_negativos.pdb
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\obj\Debug\diagonal_negativos.exe
+C:\Programacao\ws - vs 2022\Primeiro\diagonal_negativos\obj\Debug\diagonal_negativos.pdb

@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\obj\Debug\retangulo.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\obj\Debug\retangulo.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\bin\Debug\retangulo.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\bin\Debug\retangulo.exe
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\bin\Debug\retangulo.pdb
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\obj\Debug\retangulo.exe
+C:\Programacao\ws - vs 2022\Primeiro\retangulo\obj\Debug\retangulo.pdb

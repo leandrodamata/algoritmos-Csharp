@@ -1,0 +1,7 @@
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\bin\Debug\soma_vetor.exe.config
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\bin\Debug\soma_vetor.exe
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\bin\Debug\soma_vetor.pdb
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\obj\Debug\soma_vetor.csproj.AssemblyReference.cache
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\obj\Debug\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\obj\Debug\soma_vetor.exe
+C:\Programacao\ws - vs 2022\Primeiro\soma_vetor\obj\Debug\soma_vetor.pdb
